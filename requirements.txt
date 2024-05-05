@@ -1,4 +1,4 @@
-sys
+sys==3.9.13
 pypdf
 langchain
 langchain_community
