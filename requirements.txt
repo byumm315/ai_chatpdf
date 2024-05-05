@@ -1,3 +1,4 @@
+streamlit
 sys
 pypdf
 langchain
@@ -6,5 +7,4 @@ langchain_openai
 openai
 chromadb
 tiktoken
-streamlit
 pysqlite3-binary
